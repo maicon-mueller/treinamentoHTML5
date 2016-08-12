@@ -1,0 +1,23 @@
+body{
+    background: blue;
+}
+
+label{
+    font-weight: bold;
+    text-align: right;
+    font-size: 22px;
+    color: brown;
+}
+
+h1{
+    background: red;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+table{
+    background: greenyellow;
+}
